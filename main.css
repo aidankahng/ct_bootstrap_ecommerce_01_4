@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.sticking{
+    position: sticky;
+    top: 0;
+}
+
+.nav-background {
+    background-color: rgb(226, 226, 226);
+}
+
+.page-background {
+    background: linear-gradient(rgb(228, 228, 228),rgb(184, 184, 184));
+}
