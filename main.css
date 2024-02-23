@@ -12,10 +12,11 @@
 .sticking{
     position: sticky;
     top: 0;
+    z-index: 10;
 }
 
 .nav-background {
-    background-color: rgb(226, 226, 226);
+    background-color: rgb(240, 221, 205);
 }
 
 .page-background {
